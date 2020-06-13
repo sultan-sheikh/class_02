@@ -22,13 +22,13 @@ body{
 
 
 .logo_img{
-	width:100px;
+	width:200px;
 }
 .logo_img img {
     padding: 20px 0;
     float: left;
     padding-top: 36px;
-    width: 80px;
+    width: 100px;
 }
 .menu-section{
 	float:right;
@@ -150,6 +150,8 @@ color:#008CFF;
 }
 /*body paragraph section end*/
 
+
+/*image section 2 start*/
 .last-img{
 	margin:auto;
 	margin-bottom: 50px;
@@ -223,7 +225,7 @@ height:300px;
 	background: #FFF2D7;
 	border-radius: 10px;
 }
-
+/*image section 2 end*/
 
 
 
