@@ -16,7 +16,7 @@ body{
 	width:100%;
 	overflow:hidden;
 	margin:0;
-	border-bottom: 1px solid lightgray;
+	border-bottom:.3px solid lightgray;
 	box-shadow:0px 1px 5px solid black;
 }
 
@@ -123,15 +123,13 @@ color:#008CFF;
  
 }
 
-.left_side p{
-	color:#7B7A82;
-	font-size:16px;
-	text-align:right;
-	line-height:2;
-	margin:0;
-	font-family:tahoma;
-	
-
+.left_side p {
+    color: #7B7A82;
+    font-size: 20px;
+    text-align: right;
+    line-height: 1.6;
+    margin: 0;
+    font-family: tahoma;
 }
 
 .right_side{
@@ -146,9 +144,8 @@ color:#008CFF;
 	color:#17285C;
 	font-weight:bold;
 	letter-spacing: 1px;
-
 }
-/*body paragraph section end*/
+/*section3 end*/
 
 
 /*image section 2 start*/
